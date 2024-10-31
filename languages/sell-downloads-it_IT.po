@@ -1,0 +1,1439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sell-downloads\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-01 01:42+0200\n"
+"PO-Revision-Date: 2021-10-01 01:42+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: CodePeople\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sd-addons/affiliateroyale.addon.php:72
+msgid "Affiliate Royale Integration"
+msgstr ""
+
+#: sd-addons/affiliateroyale.addon.php:74
+msgid ""
+"If the Affiliate Royale plugin is installed on the website, and you want "
+"integrate it with the store, tick the checkbox:"
+msgstr ""
+
+#: sd-core/sd-functions.php:345
+#, fuzzy
+#| msgid "The store is processing the purchase. You will be redirected in"
+msgid "The store should be processing the purchase. You will be redirected in"
+msgstr "L'archivio sta elaborando l'acquisto. Si verrà reindirizzati in"
+
+#: sd-core/sd-functions.php:533
+msgid "The list of purchased products is empty"
+msgstr "L'elenco dei prodotti acquistati è vuoto"
+
+#: sd-core/sd-functions.php:565
+msgid "Type the email address used to purchase our products"
+msgstr ""
+"Digitare l'indirizzo di posta elettronica utilizzato per acquistare i nostri "
+"prodotti"
+
+#: sd-core/sd-functions.php:601 sell-downloads.php:186
+msgid "Invalid File Type"
+msgstr "Tipo di file non valido"
+
+#: sd-core/sd-functions.php:645
+msgid "Wrong File Location"
+msgstr "Indirizzo del File errato"
+
+#: sd-core/sd-product.php:138
+msgid "Description"
+msgstr "Descrizione"
+
+#: sd-core/sd-product.php:139
+msgid "Year"
+msgstr "Anno"
+
+#: sd-core/sd-product.php:140
+msgid "Time"
+msgstr "Tempo"
+
+#: sd-core/sd-product.php:141
+msgid "Go to the store page"
+msgstr "Torna alla pagina Compra"
+
+#: sd-core/sd-product.php:142
+msgid "More Info"
+msgstr "Altro"
+
+#: sd-core/sd-product.php:143
+msgid "popularity"
+msgstr "Popolarità"
+
+#: sd-core/sd-product.php:184
+msgid "Quantity:"
+msgstr ""
+
+#: sd-core/sd-product.php:184
+msgid "Quantity"
+msgstr ""
+
+#: sd-core/sd-product.php:198
+msgid "Download Here"
+msgstr "Scarica il file"
+
+#: sd-core/sd-product.php:312
+msgid "View File Demo"
+msgstr "Mostra il Demo"
+
+#: sd-core/sd-product.php:315
+msgid "Download File Demo"
+msgstr "Scarica il Demo"
+
+#: sd-core/sd-product.php:371
+msgid "Sales price:"
+msgstr "Prezzo di vendita:"
+
+#: sd-core/sd-product.php:384
+msgid "File for sale:"
+msgstr "File in vendita:"
+
+#: sd-core/sd-product.php:387 sd-core/sd-product.php:395
+#: sd-core/sd-product.php:438 sd-core/sd-product.php:448
+#: sd-core/sd-product.php:494
+msgid "File path/URL"
+msgstr "Percorso elementi"
+
+#: sd-core/sd-product.php:387 sd-core/sd-product.php:395
+#: sd-core/sd-product.php:438 sd-core/sd-product.php:448
+#: sd-core/sd-product.php:494 sell-downloads.php:1290
+msgid "Upload a file"
+msgstr "Invia un File"
+
+#: sd-core/sd-product.php:392
+msgid "File for demo:"
+msgstr "File Demo:"
+
+#: sd-core/sd-product.php:400
+msgid "Sold individually:"
+msgstr ""
+
+#: sd-core/sd-product.php:408
+msgid "File type:"
+msgstr "Tipo: "
+
+#: sd-core/sd-product.php:417
+msgid "Select an File Type"
+msgstr "Scegli un Tipo di file"
+
+#: sd-core/sd-product.php:425
+msgid "Enter a new file type"
+msgstr "Aggiungi un nuovo tipo di file"
+
+#: sd-core/sd-product.php:426
+msgid "Add file type"
+msgstr "Aggiungi un tipo di File"
+
+#: sd-core/sd-product.php:427
+msgid "Select an File Type from the list or enter new one"
+msgstr "Scegli un Tipo di File dalla lista oppure scrivine uno nuovo"
+
+#: sd-core/sd-product.php:433
+msgid "Image:"
+msgstr "Immagine:"
+
+#: sd-core/sd-product.php:448 sd-core/sd-product.php:494
+msgid "Delete"
+msgstr ""
+
+#: sd-core/sd-product.php:454
+#, fuzzy
+#| msgid "Image:"
+msgid "Add Image"
+msgstr "Immagine:"
+
+#: sd-core/sd-product.php:459
+msgid "Duration:"
+msgstr "Durata:"
+
+#: sd-core/sd-product.php:462
+msgid "For example 00:00"
+msgstr "Per esempio 00:00"
+
+#: sd-core/sd-product.php:467
+msgid "Publication Year:"
+msgstr "Anno:"
+
+#: sd-core/sd-product.php:470
+msgid "For example 1999"
+msgstr "Per esempio 1999"
+
+#: sd-core/sd-product.php:475
+msgid "Additional information:"
+msgstr "Scorciatoie aggiuntive:"
+
+#: sd-core/sd-product.php:478
+msgid "Page URL"
+msgstr "Pagina URL"
+
+#: sd-core/sd-product.php:478
+msgid "Different webpage with additional information"
+msgstr "Altra pagina web con ulteriori informazioni"
+
+#: sd-core/sd-product.php:507 sell-downloads.php:1905
+msgid "Scheduled Discounts"
+msgstr "Sconto Programmato"
+
+#: sd-core/sd-product.php:510
+msgid "New price in "
+msgstr "Nuovo changeset "
+
+#: sd-core/sd-product.php:511 sell-downloads.php:1910 sell-downloads.php:1953
+msgid "Valid from dd/mm/yyyy"
+msgstr "Valido da gg/mm/aa"
+
+#: sd-core/sd-product.php:512 sell-downloads.php:1911 sell-downloads.php:1954
+msgid "Valid to dd/mm/yyyy"
+msgstr "Valido fino a gg/mm/aa"
+
+#: sd-core/sd-product.php:513 sd-core/sd-product.php:532
+#: sell-downloads.php:1912 sell-downloads.php:1935
+msgid "Promotional text"
+msgstr "Testo promozionale"
+
+#: sd-core/sd-product.php:514 sell-downloads.php:1913 sell-downloads.php:1955
+msgid "Status"
+msgstr "Stato"
+
+#: sd-core/sd-product.php:520
+msgid "New price (*)"
+msgstr "Nuovo prezzo (*)"
+
+#: sd-core/sd-product.php:524 sell-downloads.php:1927 sell-downloads.php:1969
+msgid "Valid from (dd/mm/yyyy)"
+msgstr "Valido da (gg/mm/aaaa)"
+
+#: sd-core/sd-product.php:528 sell-downloads.php:1931 sell-downloads.php:1973
+msgid "Valid to (dd/mm/yyyy)"
+msgstr "Valido fino a (gg/mm/aaaa)"
+
+#: sd-core/sd-product.php:535 sell-downloads.php:1938
+msgid "Add/Update Discount"
+msgstr "Aggiungi/aggiorna lo Sconto"
+
+#: sd-core/sd-product.php:576
+msgid "Invalid file type for cover."
+msgstr "Tipo di Copertina non valido."
+
+#: sd-core/sd-product.php:584
+msgid "Invalid file type for selling."
+msgstr "Tipo di File non valido."
+
+#: sd-core/sd-product.php:589
+msgid "Invalid file type for demo."
+msgstr "Tipo di Demo non valido."
+
+#: sd-core/sd-product.php:670
+msgid "Product Id"
+msgstr "ID del Prodotto"
+
+#: sd-core/sd-product.php:671
+msgid "Product Name"
+msgstr "Nome del Prodotto"
+
+#: sd-core/sd-product.php:672 sell-downloads.php:847 sell-downloads.php:850
+msgid "File Type"
+msgstr "Tipo "
+
+#: sd-core/sd-product.php:673 sell-downloads.php:2933
+msgid "Popularity"
+msgstr "Popolarità"
+
+#: sd-core/sd-product.php:674
+msgid "Purchases"
+msgstr "Acquisti"
+
+#: sd-core/sd-product.php:675 sell-downloads.php:2346
+msgid "Date"
+msgstr "Data"
+
+#: sd-core/sd-templates.php:10
+msgid "Customizing the Products Templates"
+msgstr ""
+
+#: sd-core/sd-templates.php:21
+msgid "Default Templates Reloaded"
+msgstr ""
+
+#: sd-core/sd-templates.php:32
+#, fuzzy
+#| msgid "Settings Updated"
+msgid "Templates Updated"
+msgstr "Impostazioni Aggiornate"
+
+#: sd-core/sd-templates.php:41
+msgid ""
+"This section is accessible only by website administrators. Please, be "
+"careful when editing the templates. If editing the templates breaks the "
+"products or store pages, first try disabling the custom templates or reload "
+"the default ones."
+msgstr ""
+
+#: sd-core/sd-templates.php:44
+msgid ""
+"If have been associated custom fields to the products, they can be displayed "
+"in the pages of products and store. For example, if has been associated to "
+"the product the custom field: my_field, it is possible to include a block "
+"similar to the following one, as part of the template structure:<br><br>\n"
+"\t&lt;tpl ifset=\"my_field\"&gt;<br>&lt;div&gt;&lt;label&gt;The label text:"
+"&lt;/label&gt;{my_field}&lt;/div&gt;<br>&lt;/tpl ifset=\"my_field\"&gt;"
+msgstr ""
+
+#: sd-core/sd-templates.php:100
+msgid "Using custom templates"
+msgstr ""
+
+#: sd-core/sd-templates.php:102
+msgid "Help?"
+msgstr ""
+
+#: sd-core/sd-templates.php:105 sell-downloads.php:973
+#, fuzzy
+#| msgid "Products for Sale"
+msgid "Products Templates"
+msgstr "Prodotti in vendita"
+
+#: sd-core/sd-templates.php:107
+msgid "Template used on the products pages"
+msgstr ""
+
+#: sd-core/sd-templates.php:115
+msgid "Template used by the products on the shop pages"
+msgstr ""
+
+#: sd-core/sd-templates.php:123
+msgid "Template used by the products on the archive pages (like file type)"
+msgstr ""
+
+#: sd-core/sd-templates.php:130
+msgid "Update"
+msgstr ""
+
+#: sd-core/sd-templates.php:131
+msgid "Reload Default Templates"
+msgstr ""
+
+#: sd-core/sd-templates.php:141
+msgid "Do you really want to reload the default templates?"
+msgstr ""
+
+#: sd-core/sd-wizard.php:29
+msgid "Store Wizard Completed"
+msgstr ""
+
+#: sd-core/sd-wizard.php:42
+msgid "Store Wizard"
+msgstr ""
+
+#: sd-core/sd-wizard.php:45
+msgid "Step 1 of 2"
+msgstr ""
+
+#: sd-core/sd-wizard.php:45
+msgid "Payment Gateway"
+msgstr ""
+
+#: sd-core/sd-wizard.php:50
+#, fuzzy
+#| msgid "Type the email address used to purchase our products"
+msgid "Enter the email address associated to your PayPal account"
+msgstr ""
+"Digitare l'indirizzo di posta elettronica utilizzato per acquistare i nostri "
+"prodotti"
+
+#: sd-core/sd-wizard.php:53
+msgid "Email address"
+msgstr ""
+
+#: sd-core/sd-wizard.php:54
+msgid "Leave in blank if you want distribute your products for free."
+msgstr ""
+
+#: sd-core/sd-wizard.php:59
+msgid "Next step"
+msgstr ""
+
+#: sd-core/sd-wizard.php:62
+msgid "Step 2 of 2"
+msgstr ""
+
+#: sd-core/sd-wizard.php:62
+#, fuzzy
+#| msgid "Store layout"
+msgid "Store Page"
+msgstr "Layout fisso"
+
+#: sd-core/sd-wizard.php:66
+msgid "Enter the shop page's title"
+msgstr ""
+
+#: sd-core/sd-wizard.php:69
+msgid "Leave in blank if you want to configure the shop's page after."
+msgstr ""
+
+#: sd-core/sd-wizard.php:73
+#, fuzzy
+#| msgid "Products for Sale"
+msgid "Products per page"
+msgstr "Prodotti in vendita"
+
+#: sd-core/sd-wizard.php:77 sd-page-builder/elementor/elementor.pb.php:78
+#: sd-page-builder/sd-page-builders.php:100
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:49
+msgid "Number of columns"
+msgstr ""
+
+#: sd-core/sd-wizard.php:82
+msgid "Previous step"
+msgstr ""
+
+#: sd-core/sd-wizard.php:83
+msgid "Save wizard and create my first product"
+msgstr ""
+
+#: sd-core/sd-wizard.php:84
+msgid "Save wizad and go to the store's settings"
+msgstr ""
+
+#: sd-page-builder/beaverbuilder/sd.inc.php:8
+#: sd-page-builder/beaverbuilder/sd/sd.pb.php:9
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:29
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Sell Downloads Store"
+msgstr "Inserisci"
+
+#: sd-page-builder/beaverbuilder/sd.inc.php:11
+msgid "Store's Attributes"
+msgstr ""
+
+#: sd-page-builder/beaverbuilder/sd.inc.php:15
+msgid "Number of Columns"
+msgstr ""
+
+#: sd-page-builder/beaverbuilder/sd.inc.php:16
+msgid "Number of columns to distribute the products in the store's pages"
+msgstr ""
+
+#: sd-page-builder/beaverbuilder/sd.inc.php:20
+#, fuzzy
+#| msgid "Additional information:"
+msgid "Additional attributes"
+msgstr "Scorciatoie aggiuntive:"
+
+#: sd-page-builder/beaverbuilder/sd.inc.php:21
+msgid "Click here to know the complete list of attributes"
+msgstr ""
+
+#: sd-page-builder/beaverbuilder/sd/sd.pb.php:10
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Insert the store shortcode"
+msgstr "Inserisci"
+
+#: sd-page-builder/beaverbuilder/sd/sd.pb.php:11
+#: sd-page-builder/beaverbuilder/sd/sd.pb.php:12
+#: sd-page-builder/elementor/elementor.pb.php:40
+#: sd-page-builder/sd-page-builders.php:144
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Sell Downloads"
+msgstr "Inserisci"
+
+#: sd-page-builder/elementor/elementor.pb.php:45
+#: sd-page-builder/elementor/elementor.pb.php:86
+#: sd-page-builder/sd-page-builders.php:67
+#: sd-page-builder/sd-page-builders.php:74
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:13
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:20
+msgid "All"
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:55
+#: sd-page-builder/sd-page-builders.php:94
+#, fuzzy
+#| msgid "Product Name"
+msgid "Product type"
+msgstr "Nome del Prodotto"
+
+#: sd-page-builder/elementor/elementor.pb.php:60
+msgid "Select the products type include in the store."
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:67
+#: sd-page-builder/sd-page-builders.php:102
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:45
+msgid "Enter the id of products to exclude"
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:71
+#: sd-page-builder/sd-page-builders.php:112
+msgid "Enter the id of products to exclude from the store, separated by comma."
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:82
+#: sd-page-builder/sd-page-builders.php:110
+msgid "Enter the number of columns, one column by default."
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:96
+#: sd-page-builder/sd-page-builders.php:95
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:54
+#: sell-downloads.php:877 sell-downloads.php:880 sell-downloads.php:2912
+msgid "Category"
+msgstr "Categoria"
+
+#: sd-page-builder/elementor/elementor.pb.php:101
+#: sd-page-builder/sd-page-builders.php:106
+msgid "Select the category of the products to display."
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:199 sell-downloads.php:775
+#: sell-downloads.php:2322
+msgid "Product"
+msgstr "Prodotto"
+
+#: sd-page-builder/elementor/elementor.pb.php:206
+#: sd-page-builder/sd-page-builders.php:96
+#: sd-page-builder/siteorigin/siteorigin-sd-product/siteorigin-sd-product.php:24
+msgid "Enter the product's id"
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:208
+#: sd-page-builder/sd-page-builders.php:107
+msgid "Enter the id of a published product."
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:215
+#: sd-page-builder/sd-page-builders.php:99
+#: sd-page-builder/siteorigin/siteorigin-sd-product/siteorigin-sd-product.php:28
+msgid "Select the product's layout"
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:218
+#: sd-page-builder/siteorigin/siteorigin-sd-product/siteorigin-sd-product.php:31
+msgid "Short"
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:219
+#: sd-page-builder/siteorigin/siteorigin-sd-product/siteorigin-sd-product.php:32
+msgid "Completed"
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:222
+#: sd-page-builder/sd-page-builders.php:109
+msgid "Appearance applied to the product."
+msgstr ""
+
+#: sd-page-builder/elementor/elementor.pb.php:257
+#: sd-page-builder/sd-page-builders.php:98
+msgid "The product's id is required."
+msgstr ""
+
+#: sd-page-builder/sd-page-builders.php:85
+#, fuzzy
+#| msgid "New Product"
+msgid "New products"
+msgstr "Nuovo Prodotto"
+
+#: sd-page-builder/sd-page-builders.php:86
+msgid "Top rated products"
+msgstr ""
+
+#: sd-page-builder/sd-page-builders.php:87
+msgid "Most sold products"
+msgstr ""
+
+#: sd-page-builder/sd-page-builders.php:90
+#, fuzzy
+#| msgid "Go to the store page"
+msgid "Like in the store's page"
+msgstr "Torna alla pagina Compra"
+
+#: sd-page-builder/sd-page-builders.php:91
+msgid "Like in the product's page"
+msgstr ""
+
+#: sd-page-builder/sd-page-builders.php:97
+msgid "Enter the number of products"
+msgstr ""
+
+#: sd-page-builder/sd-page-builders.php:101
+#, fuzzy
+#| msgid "Edit Product"
+msgid "List the products"
+msgstr "Modifica Prodotto"
+
+#: sd-page-builder/sd-page-builders.php:105
+msgid "Select the products type to include."
+msgstr ""
+
+#: sd-page-builder/sd-page-builders.php:108
+msgid "Number of products to load. Three products by default."
+msgstr ""
+
+#: sd-page-builder/sd-page-builders.php:111
+msgid "Products to include in the list."
+msgstr ""
+
+#: sd-page-builder/siteorigin/siteorigin-sd-product/siteorigin-sd-product.php:14
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Sell Downloads Product"
+msgstr "Inserisci"
+
+#: sd-page-builder/siteorigin/siteorigin-sd-product/siteorigin-sd-product.php:16
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Inserts the Product shortcode"
+msgstr "Inserisci"
+
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:31
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Inserts the Sell Downloads Store shortcode"
+msgstr "Inserisci"
+
+#: sd-page-builder/siteorigin/siteorigin-sd/siteorigin-sd.php:39
+#, fuzzy
+#| msgid "Product Name"
+msgid "Product Type"
+msgstr "Nome del Prodotto"
+
+#: sell-downloads.php:278
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Sell Downloads Permalinks"
+msgstr "Inserisci"
+
+#: sell-downloads.php:422
+#, fuzzy
+#| msgid "Download Here"
+msgid "Download Page"
+msgstr "Scarica il file"
+
+#: sell-downloads.php:531
+msgid "Product's data"
+msgstr "Data del Prodotto"
+
+#: sell-downloads.php:532
+msgid "Programming Discounts"
+msgstr "Programmare gli Sconti"
+
+#: sell-downloads.php:537 sell-downloads.php:940
+#, fuzzy
+#| msgid "Purchases"
+msgid "Manual Purchase"
+msgstr "Acquisti"
+
+#: sell-downloads.php:587
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: sell-downloads.php:588
+msgid "Request custom changes"
+msgstr "Richiedi modifiche personalizzate"
+
+#: sell-downloads.php:589
+msgid "Help"
+msgstr ""
+
+#: sell-downloads.php:764
+msgid "This is where you can add products to your store."
+msgstr "Qui puoi aggiungere prodotti al tuo negozio."
+
+#: sell-downloads.php:774
+msgid "Products"
+msgstr "Prodotti"
+
+#: sell-downloads.php:776
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: sell-downloads.php:777
+msgid "Add New Product"
+msgstr "Aggiungi un nuovo Prodotto"
+
+#: sell-downloads.php:778
+msgid "Edit Product"
+msgstr "Modifica Prodotto"
+
+#: sell-downloads.php:779
+msgid "New Product"
+msgstr "Nuovo Prodotto"
+
+#: sell-downloads.php:780
+msgid "View Product"
+msgstr "Visualizza Prodotto"
+
+#: sell-downloads.php:781
+msgid "Search Products"
+msgstr "Ricerca Prodotti"
+
+#: sell-downloads.php:782
+msgid "No products found"
+msgstr "Nessun Prodotto trovato"
+
+#: sell-downloads.php:783
+msgid "No products found in Trash"
+msgstr "Nessun Prodotto trovato nel cestino"
+
+#: sell-downloads.php:784
+msgid "Products for Sale"
+msgstr "Prodotti in vendita"
+
+#: sell-downloads.php:849 sell-downloads.php:857 sell-downloads.php:965
+msgid "File Types"
+msgstr "Tipi di File"
+
+#: sell-downloads.php:851
+msgid "Search File Types"
+msgstr "Ricerca Tipi di File"
+
+#: sell-downloads.php:852
+msgid "All File Types"
+msgstr "Tutti i Tipi"
+
+#: sell-downloads.php:853
+msgid "Edit File Type"
+msgstr "Modifica il Tipo di File"
+
+#: sell-downloads.php:854
+msgid "Update File Type"
+msgstr "Aggiorna il Tipo di File"
+
+#: sell-downloads.php:855
+msgid "Add New File Type"
+msgstr "Aggiungi un Nuovo Tipo di File"
+
+#: sell-downloads.php:856
+msgid "New File Type"
+msgstr "Nuovo Tipo di File"
+
+#: sell-downloads.php:879 sell-downloads.php:887
+msgid "Categories"
+msgstr "Categorie"
+
+#: sell-downloads.php:881
+msgid "Search Categories"
+msgstr "Cerca categorie"
+
+#: sell-downloads.php:882
+msgid "All Categories"
+msgstr "Tutte le Categorie"
+
+#: sell-downloads.php:883
+msgid "Edit Category"
+msgstr "Modifica categoria"
+
+#: sell-downloads.php:884
+msgid "Update Category"
+msgstr "Aggiorna categoria"
+
+#: sell-downloads.php:885
+msgid "Add New Category"
+msgstr "Aggiungi una nuova categoria"
+
+#: sell-downloads.php:886
+msgid "New Category"
+msgstr "Aggiungi una nuova categoria"
+
+#: sell-downloads.php:940
+msgid ""
+"To emulate a purchase it is possible to include a manual entry in the sales "
+"reports. Configure the product, and press the manual purchase button"
+msgstr ""
+
+#: sell-downloads.php:965
+msgid "Set File Types"
+msgstr "Imposta il Tipo di File"
+
+#: sell-downloads.php:973
+#, fuzzy
+#| msgid "Insert Sell Downloads"
+msgid "Sell Downloads Templates"
+msgstr "Inserisci"
+
+#: sell-downloads.php:1027 sell-downloads.php:1033
+msgid "Buy Now"
+msgstr ""
+
+#: sell-downloads.php:1029 sell-downloads.php:1031
+msgid "Pay Now"
+msgstr ""
+
+#: sell-downloads.php:1035
+msgid "Add to Cart"
+msgstr ""
+
+#: sell-downloads.php:1037
+#, fuzzy
+#| msgid "View Product"
+msgid "View Cart"
+msgstr "Visualizza Prodotto"
+
+#: sell-downloads.php:1137 sell-downloads.php:1142
+msgid "Settings Updated"
+msgstr "Impostazioni Aggiornate"
+
+#: sell-downloads.php:1170
+msgid "Sell Downloads page config"
+msgstr "Configurazione Pagina del Plugin"
+
+#: sell-downloads.php:1174
+msgid "URL of store page"
+msgstr "Indirizzo URL del Negozio"
+
+#: sell-downloads.php:1178
+msgid "Set the URL of page where the Sell Downloads was inserted"
+msgstr "Imposta l'indirizzo URL dove è stato inserito il plugin"
+
+#: sell-downloads.php:1182
+msgid "Prevent the products pages be cached"
+msgstr ""
+
+#: sell-downloads.php:1187
+msgid "Allow searching by taxonomies"
+msgstr "Consenti ricerca per tassonomie"
+
+#: sell-downloads.php:1192
+msgid "Allow display online demos"
+msgstr "Consenti visualizzazione dei Demo"
+
+#: sell-downloads.php:1195
+msgid ""
+"The demo files will be displayed with plugins on browser, if they are enabled"
+msgstr "Le Demo verranno visualizzate con plugin del browser, se abilitati"
+
+#: sell-downloads.php:1199
+msgid "Allow filtering by type"
+msgstr "Permettere ai nuovi utenti di iscriversi"
+
+#: sell-downloads.php:1204
+msgid "Allow filtering by category"
+msgstr "Permetti di filtrare per categoria"
+
+#: sell-downloads.php:1209
+msgid "Allow multiple pages"
+msgstr "Permetti Pagine multiple"
+
+#: sell-downloads.php:1213
+msgid "Uses friendly URLs on products"
+msgstr "Usa URL amichevoli per i Prodotti"
+
+#: sell-downloads.php:1217
+msgid "Store layout"
+msgstr "Layout fisso"
+
+#: sell-downloads.php:1220
+msgid "Default layout"
+msgstr "Layout fisso"
+
+#: sell-downloads.php:1239
+msgid "Items per page"
+msgstr "Nessun elemento presente"
+
+#: sell-downloads.php:1243
+msgid "Show the products popularity"
+msgstr ""
+
+#: sell-downloads.php:1249
+msgid "Share in social networks"
+msgstr "Condividi nelle reti sociali"
+
+#: sell-downloads.php:1252
+msgid ""
+"The option enables the buttons for share the products in social networks"
+msgstr ""
+"Questa opzione abilita i pulsanti per condividere i prodotti nelle reti "
+"sociali"
+
+#: sell-downloads.php:1257
+msgid "Facebook app id for sharing in Facebook"
+msgstr "Id di Facebook per la condivisione"
+
+#: sell-downloads.php:1260
+msgid ""
+"Click the link to generate the Facebook App and get its ID: <a target="
+"\"_blank\" href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a>"
+msgstr ""
+"Clicca il link per generare la App Facebook ed ottenere il suo ID: <a target="
+"\"_blank\" href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a>"
+
+#: sell-downloads.php:1267
+#, fuzzy
+#| msgid "Products List"
+msgid "Products Settings"
+msgstr "Elenco puntato"
+
+#: sell-downloads.php:1275
+msgid "Allows to associate zip files to the products, as the files for selling"
+msgstr ""
+
+#: sell-downloads.php:1284
+msgid "Default cover image"
+msgstr ""
+
+#: sell-downloads.php:1289
+#, fuzzy
+#| msgid "File path/URL"
+msgid "File URL"
+msgstr "Percorso elementi"
+
+#: sell-downloads.php:1292
+msgid "Cover to display when products do not have an associated image"
+msgstr ""
+
+#: sell-downloads.php:1296
+msgid "Size of cover image"
+msgstr ""
+
+#: sell-downloads.php:1301
+msgid "Medium size"
+msgstr ""
+
+#: sell-downloads.php:1302
+msgid "Full size"
+msgstr ""
+
+#: sell-downloads.php:1303
+msgid ""
+"The size of cover image selected only affects to the images associated to "
+"the products from now, the images selected previously won't be modified"
+msgstr ""
+
+#: sell-downloads.php:1311
+msgid "How configure your PayPal account"
+msgstr ""
+
+#: sell-downloads.php:1311
+msgid "close [x]"
+msgstr ""
+
+#: sell-downloads.php:1318
+msgid "Paypal Payment Configuration"
+msgstr "Crea un file di configurazione"
+
+#: sell-downloads.php:1327
+msgid ""
+"Your website is hosted locally, so, the PayPal IPN cannot reach your "
+"website. For testing the purchases the website should be hosted publicly."
+msgstr ""
+
+#: sell-downloads.php:1332
+msgid "Enable Paypal Payments?"
+msgstr "Abilitare pagamenti PayPal?"
+
+#: sell-downloads.php:1337
+msgid "Use Paypal Sandbox"
+msgstr "Usa la Sandbox di PayPal"
+
+#: sell-downloads.php:1342
+msgid "Paypal email"
+msgstr "Email"
+
+#: sell-downloads.php:1344
+msgid "enabling the IPN in PayPal tutorial"
+msgstr ""
+
+#: sell-downloads.php:1353 sell-downloads.php:2370
+msgid "Currency"
+msgstr "Valuta"
+
+#: sell-downloads.php:1367
+msgid "Currency Symbol"
+msgstr "Simbolo di valuta"
+
+#: sell-downloads.php:1374
+msgid "Paypal language"
+msgstr "Lingua di PayPal"
+
+#: sell-downloads.php:1813
+msgid "Paypal button for instant purchases"
+msgstr "Pulsante PayPal per acquisti immediati"
+
+#: sell-downloads.php:1818
+msgid "or use a shopping cart"
+msgstr "o usa un carrello"
+
+#: sell-downloads.php:1830
+msgid "Apply taxes (in percentage)"
+msgstr ""
+
+#: sell-downloads.php:1835
+msgid "Download link valid for"
+msgstr "Scarica il video"
+
+#: sell-downloads.php:1836
+msgid "day(s)"
+msgstr "Giorni"
+
+#: sell-downloads.php:1840
+msgid "Number of downloads allowed by purchase"
+msgstr "Numero di Download consentiti"
+
+#: sell-downloads.php:1845
+msgid "Increase the download page security"
+msgstr "Aumenta la sicurezza della pagina"
+
+#: sell-downloads.php:1846
+msgid ""
+"The customers must enter the email address used in the product's purchasing "
+"to access to the download link. The Store verifies the customer's data, from "
+"the file link too."
+msgstr ""
+"I clienti devono utilizzare lo stesso indirizzo email usato per l'acquisto. "
+"Il Negozio controlla anche i dati dell'acquirente tramite il link del File."
+
+#: sell-downloads.php:1850
+msgid "Pack all purchased files as a single ZIP file"
+msgstr "Compatta tutti gli acquisti in un solo file ZIP"
+
+#: sell-downloads.php:1855
+msgid ""
+"Your server can't create Zipped files dynamically. Please, contact to your "
+"hosting provider for enable ZipArchive in the PHP script"
+msgstr ""
+"Il tuo server non riesce a creare file compressi ZIP in modo dinamico, "
+"contatta il tuo fornitore del sito per abilitare ZipArchive nel codice PHP"
+
+#: sell-downloads.php:1879
+msgid "Debugging Payment Process"
+msgstr ""
+
+#: sell-downloads.php:1880
+msgid ""
+"(If the checkbox is ticked the plugin will create two new entries in the "
+"error  logs file on your server, with the texts <b>Sell Downloads payment "
+"gateway GET parameters</b> and <b>Sell Downloads payment gateway POST "
+"parameters</b>.  If after a purchase, none of these entries appear in the "
+"error logs file, the payment notification has not reached the plugin's code)"
+msgstr ""
+
+#: sell-downloads.php:1887
+msgid "Restrict the access to registered users only"
+msgstr ""
+
+#: sell-downloads.php:1891
+msgid "Display the free download links only for registered users"
+msgstr ""
+
+#: sell-downloads.php:1901
+msgid "Discount Settings"
+msgstr "Impostazioni"
+
+#: sell-downloads.php:1904
+msgid "Display discount promotions in the store page"
+msgstr "Visualizza le promozioni nella pagina del negozio"
+
+#: sell-downloads.php:1908 sell-downloads.php:1951
+msgid "Percent of discount"
+msgstr "Percentuale di sconto"
+
+#: sell-downloads.php:1909
+msgid "In Sales over than ... "
+msgstr "Per Vendite superiori a ..."
+
+#: sell-downloads.php:1919 sell-downloads.php:1961
+msgid "Percent of discount (*)"
+msgstr "Percentuale di sconto (*)"
+
+#: sell-downloads.php:1923
+msgid "Valid for sales over than (*)"
+msgstr "Valido per vendite superiori a (*)"
+
+#: sell-downloads.php:1945
+msgid "Coupons Settings"
+msgstr "Impostazioni"
+
+#: sell-downloads.php:1948
+msgid "Coupons List"
+msgstr "Elenco puntato"
+
+#: sell-downloads.php:1952
+msgid "Coupon"
+msgstr "Tagliando"
+
+#: sell-downloads.php:1965
+msgid "Coupon (*)"
+msgstr "Tagliando (*)"
+
+#: sell-downloads.php:1976
+msgid "Add/Update Coupon"
+msgstr "Aggiungi"
+
+#: sell-downloads.php:1983
+msgid "Notification Settings"
+msgstr "Impostazioni"
+
+#: sell-downloads.php:2006
+msgid "Notification \"from\" email"
+msgstr "Email"
+
+#: sell-downloads.php:2011
+msgid "Send notification to email"
+msgstr "Invia la notifica a questo indirizzo email"
+
+#: sell-downloads.php:2016
+msgid "Email subject confirmation to user"
+msgstr "Controllare la propria casella email per il link di conferma"
+
+#: sell-downloads.php:2021
+msgid "Email confirmation to user"
+msgstr "Controllare la propria casella email per il link di conferma"
+
+#: sell-downloads.php:2026
+msgid "Email subject notification to admin"
+msgstr "Controllare la propria casella email per il link di conferma"
+
+#: sell-downloads.php:2031
+msgid "Email notification to admin"
+msgstr "Email di notifica per l'admin"
+
+#: sell-downloads.php:2040
+msgid "Troubleshoot Area"
+msgstr ""
+
+#: sell-downloads.php:2044
+#, fuzzy
+#| msgid "Download File Demo"
+msgid "The downloaded file is broken"
+msgstr "Scarica il Demo"
+
+#: sell-downloads.php:2055
+msgid "Update Settings"
+msgstr "Impostazioni"
+
+#: sell-downloads.php:2104
+#, fuzzy
+#| msgid "Filter the sales reports"
+msgid "New entry added to the sales report"
+msgstr "Filtra elenco pagine"
+
+#: sell-downloads.php:2108
+msgid "The new entry couldn't be inserted in the sales reports"
+msgstr ""
+
+#: sell-downloads.php:2113
+msgid "The amount and currency are required"
+msgstr ""
+
+#: sell-downloads.php:2118
+msgid "The date is wrong"
+msgstr ""
+
+#: sell-downloads.php:2123
+#, fuzzy
+#| msgid "No products found"
+msgid "The product is required"
+msgstr "Nessun Prodotto trovato"
+
+#: sell-downloads.php:2128
+msgid "The buyer is required"
+msgstr ""
+
+#: sell-downloads.php:2151
+#, fuzzy
+#| msgid "Products for Sale"
+msgid "Products from "
+msgstr "Prodotti in vendita"
+
+#: sell-downloads.php:2158
+msgid "Email sent"
+msgstr ""
+
+#: sell-downloads.php:2173
+msgid "PayPal data"
+msgstr "Dati PayPal"
+
+#: sell-downloads.php:2280
+msgid "January"
+msgstr "Gennaio"
+
+#: sell-downloads.php:2281
+msgid "February"
+msgstr "Febbraio"
+
+#: sell-downloads.php:2282
+msgid "March"
+msgstr "Marzo"
+
+#: sell-downloads.php:2283
+msgid "April"
+msgstr "Aprile"
+
+#: sell-downloads.php:2284
+msgid "May"
+msgstr "Maggio"
+
+#: sell-downloads.php:2285
+msgid "June"
+msgstr "Giugno"
+
+#: sell-downloads.php:2286
+msgid "July"
+msgstr "Luglio"
+
+#: sell-downloads.php:2287
+msgid "August"
+msgstr "Agosto"
+
+#: sell-downloads.php:2288
+msgid "September"
+msgstr "Settembre"
+
+#: sell-downloads.php:2289
+msgid "October"
+msgstr "Ottobre"
+
+#: sell-downloads.php:2290
+msgid "November"
+msgstr "Novembre"
+
+#: sell-downloads.php:2291
+msgid "December"
+msgstr "Dicembre"
+
+#: sell-downloads.php:2297
+#, fuzzy
+#| msgid "January"
+msgid "Manual Entry"
+msgstr "Gennaio"
+
+#: sell-downloads.php:2313
+#, fuzzy
+#| msgid "Buyer: "
+msgid "Buyer"
+msgstr "Acquirente: "
+
+#: sell-downloads.php:2317
+msgid "Send the download link to the buyer"
+msgstr ""
+
+#: sell-downloads.php:2326
+#, fuzzy
+#| msgid "Sales by product"
+msgid "Select a product"
+msgstr "Vendite per prodotto"
+
+#: sell-downloads.php:2366
+msgid "Amount"
+msgstr ""
+
+#: sell-downloads.php:2371
+#, fuzzy
+#| msgid "For example 1999"
+msgid "for example: USD"
+msgstr "Per esempio 1999"
+
+#: sell-downloads.php:2376
+#, fuzzy
+#| msgid "PayPal data"
+msgid "Payment data"
+msgstr "Dati PayPal"
+
+#: sell-downloads.php:2383
+msgid "Add Entry"
+msgstr ""
+
+#: sell-downloads.php:2391
+msgid "Filter the sales reports"
+msgstr "Filtra elenco pagine"
+
+#: sell-downloads.php:2394
+msgid "Filter by date"
+msgstr "Filtra per data"
+
+#: sell-downloads.php:2395
+msgid "Buyer: "
+msgstr "Acquirente: "
+
+#: sell-downloads.php:2396
+msgid "From: "
+msgstr "Da: "
+
+#: sell-downloads.php:2409
+msgid "To: "
+msgstr "A: "
+
+#: sell-downloads.php:2422
+msgid "Search"
+msgstr "Ricerca"
+
+#: sell-downloads.php:2426
+msgid "Grouping the sales"
+msgstr "Raggruppa le vendite"
+
+#: sell-downloads.php:2427
+msgid "By: "
+msgstr "Di:"
+
+#: sell-downloads.php:2438
+msgid "Display"
+msgstr "Visualizza"
+
+#: sell-downloads.php:2439
+msgid "Sales"
+msgstr "Vendite"
+
+#: sell-downloads.php:2440
+msgid "Amount of sales"
+msgstr "Importo delle vendite"
+
+#: sell-downloads.php:2441
+msgid "Daily average"
+msgstr "Due volte al giorno"
+
+#: sell-downloads.php:2448
+msgid "Sell Downloads sales report"
+msgstr "Elenco delle vendite di Sell Downloads"
+
+#: sell-downloads.php:2455
+msgid "Sales by country"
+msgstr "Vendite per Paese"
+
+#: sell-downloads.php:2456
+msgid "Sales by currency"
+msgstr "Vendite per Valuta"
+
+#: sell-downloads.php:2457
+msgid "Sales by product"
+msgstr "Vendite per prodotto"
+
+#: sell-downloads.php:2472
+msgid "Products List"
+msgstr "Elenco puntato"
+
+#: sell-downloads.php:2573
+msgid "There are not sales registered with those filter options"
+msgstr "Non ci sono vendite corrispondenti a questi filtri"
+
+#: sell-downloads.php:2630
+msgid "close"
+msgstr ""
+
+#: sell-downloads.php:2631
+#, fuzzy
+#| msgid "Download File Demo"
+msgid "download file"
+msgstr "Scarica il Demo"
+
+#: sell-downloads.php:2632
+msgid ""
+"The Object to display the demo file is not enabled in your browser. CLICK "
+"HERE to download the demo file"
+msgstr ""
+
+#: sell-downloads.php:2673 sell-downloads.php:2988
+msgid "Insert Sell Downloads"
+msgstr "Inserisci"
+
+#: sell-downloads.php:2674
+msgid "Columns:"
+msgstr "Colonne:"
+
+#: sell-downloads.php:2676
+msgid "Filter results by file type:"
+msgstr "Filtra per tipo:"
+
+#: sell-downloads.php:2676 sell-downloads.php:2900
+msgid "All file types"
+msgstr "Tutti i Tipi"
+
+#: sell-downloads.php:2684
+#, fuzzy
+#| msgid "Sales by product"
+msgid "Insert a Product"
+msgstr "Vendite per prodotto"
+
+#: sell-downloads.php:2685
+#, fuzzy
+#| msgid "Edit Product"
+msgid "Enter the product ID:"
+msgstr "Modifica Prodotto"
+
+#: sell-downloads.php:2895
+msgid "Filter by"
+msgstr "Filtra per "
+
+#: sell-downloads.php:2898
+msgid " file type: "
+msgstr "Tipo: "
+
+#: sell-downloads.php:2899
+#, fuzzy
+#| msgid "File type:"
+msgid "File type"
+msgstr "Tipo: "
+
+#: sell-downloads.php:2911
+msgid " category: "
+msgstr " Categoria: "
+
+#: sell-downloads.php:2913
+msgid "All categories"
+msgstr "Tutte le Categorie"
+
+#: sell-downloads.php:2929
+msgid "Order by: "
+msgstr "Ordina per "
+
+#: sell-downloads.php:2930
+#, fuzzy
+#| msgid "Order by: "
+msgid "Order by"
+msgstr "Ordina per "
+
+#: sell-downloads.php:2931
+msgid "Newest"
+msgstr ""
+
+#: sell-downloads.php:2932
+msgid "Name"
+msgstr "Nome"
+
+#: sell-downloads.php:2934
+msgid "Price: Low to High"
+msgstr ""
+
+#: sell-downloads.php:2935
+msgid "Price: High to Low"
+msgstr ""
+
+#: sell-downloads.php:2990
+#, fuzzy
+#| msgid "Sales by product"
+msgid "Insert a product"
+msgstr "Vendite per prodotto"
+
+#, fuzzy
+#~| msgid "The purchase ID is incorrect, please, try again in 3 minutes."
+#~ msgid ""
+#~ "The purchase ID has not been registered yet, or the purchase id is "
+#~ "invalid. Please, try again in 3 minutes."
+#~ msgstr "L'ID d'acquisto è errata, per favore riprova tra 3 minuti."
+
+#~ msgid "Price"
+#~ msgstr "Prezzo"
+
+#~ msgid "Please, try again in 3 minutes."
+#~ msgstr "Riprovare tra 3 minuti."
+
+#~ msgid "Access to Product Page"
+#~ msgstr "Accesso alla Pagina del Prodotto"

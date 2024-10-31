@@ -1,0 +1,17 @@
+.sd-property-container{float:left;}
+.sd-comment{color:#CCC;font-style:italic;}
+.sd_more_info{ border: 1px solid #E6DB55; background-color: #FFFFE0; padding: 10px; margin: 10px 0; display:none; }
+.sd-section-title,
+.sd-chart-title{ font-size: 18px; font-weight: bold;margin:10px 0;}
+.sd-chart-legend{float:left; padding:10px; background:#FFFFFF; border: 1px solid #dfdfdf; }
+.sd-legend-color{height:16px;width:20px;float:left;margin-right:10px;}
+.sd-legend-text{float:left;clear:right;}
+.sd-paypal-data{ border: 1px solid #EEEEEE; padding: 0 10px 10px 10px; margin: 10px 0; }
+#sd_layout_thumbnail img{ margin-top: 10px; }
+.sd-error-mssg{ border: 1px solid #FF0000; color: #FF0000; text-align:center; width:100%; }
+.sd-mssg{ border: 1px solid #E6DB55; background-color: #FFFFE0; text-align:center; width:100%; }
+#sd_ipn_video_tutorial{border: 1px solid #DDDDDD; background:white; padding:10px; position: fixed; top: 50%; left: 50%; width: 70%; transform: perspective(1px) translateY(-50%) translateX(-50%); z-index: 999999;}
+.sd-sales-report-actions input{width: 170px;text-align: center;margin-bottom: 5px !important;padding-left: 0 !important;padding-right: 0 !important;}
+.cp-blink-me {animation: cp_blinker 2s linear infinite;text-transform: uppercase;}
+@keyframes cp_blinker{50% {opacity: 0;}}
+.sd-covers .sd-cover{margin-bottom:5px;}
